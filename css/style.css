@@ -43,3 +43,29 @@
     font-weight: 700;
     line-height: 15px;
 }
+.main__title{
+    font-weight: 700;
+    font-size: 24px;
+    color: #62D0DF;
+}
+.main__info{
+    font-weight: 700;
+    font-size: 48px;
+    color: #22356F;
+}
+.main__text{
+    font-weight: 400;
+    font-size: 16px;
+    color: #22356F;
+}
+.main__btn{
+    display: block;
+    width: 150px;
+    height: 50px;
+    border: none;
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: #F9B640;
+    cursor: pointer;
+}
