@@ -69,3 +69,23 @@
     background: #F9B640;
     cursor: pointer;
 }
+.information__title{
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+.information__text{
+    font-weight: 700;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+.information__title{
+    color: #22356F;
+    font-weight: 400;
+    font-size: 32px;
+}
+.information__text{
+    font-weight: 300;
+    font-size: 24px;
+    color: #22356F;
+}
